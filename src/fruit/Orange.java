@@ -25,6 +25,6 @@ public class Orange extends Fruit {
 	
 	@Override
 	public String getType() { 
-		return TYPE; 
+		return "gf"; 
 	}
 }
